@@ -1,0 +1,26 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "Tutorial y practicas de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esaredo/CypressTutorials.git"
+  },
+  "keywords": [
+    "Cypress",
+    "node",
+    "js",
+    "test",
+    "automation"
+  ],
+  "author": "Emiliano E. Saredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esaredo/CypressTutorials/issues"
+  },
+  "homepage": "https://github.com/esaredo/CypressTutorials#readme"
+}
