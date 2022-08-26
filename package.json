@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/esaredo/CypressTutorials/issues"
   },
-  "homepage": "https://github.com/esaredo/CypressTutorials#readme"
+  "homepage": "https://github.com/esaredo/CypressTutorials#readme",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
 }
